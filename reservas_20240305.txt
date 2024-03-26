@@ -1,0 +1,62 @@
+Número de Habitación: 
+Nombre: No disponible
+Adultos: No disponible
+Niños: No disponible
+Fecha de reserva: 2024-03-05 20:36:47
+
+Número de Habitación: 
+Nombre: No disponible
+Adultos: No disponible
+Niños: No disponible
+Fecha de reserva: 2024-03-05 20:36:50
+
+Número de Habitación: 
+Nombre: No disponible
+Adultos: No disponible
+Niños: No disponible
+Fecha de reserva: 2024-03-05 20:36:51
+
+Número de Habitación: 
+Nombre: No disponible
+Adultos: No disponible
+Niños: No disponible
+Fecha de reserva: 2024-03-05 20:39:40
+
+Número de Habitación: 
+Nombre: No disponible
+Adultos: No disponible
+Niños: No disponible
+Fecha de reserva: 2024-03-05 20:42:45
+
+Número de Habitación: 
+Información de la habitación no disponible
+Fecha de reserva: 2024-03-05 20:58:16
+
+Número de Habitación: 
+Información de la habitación no disponible
+Fecha de reserva: 2024-03-05 20:58:18
+
+Número de Habitación: 
+Información de la habitación no disponible
+Fecha de reserva: 2024-03-05 20:58:19
+
+Número de Habitación: 
+Información de la habitación no disponible
+Fecha de reserva: 2024-03-05 22:22:37
+
+Número de Habitación: 
+Información de la habitación no disponible
+Fecha de reserva: 2024-03-05 22:23:21
+
+Número de Habitación: 
+Información de la habitación no disponible
+Fecha de reserva: 2024-03-05 22:23:22
+
+Número de Habitación: No disponible
+Información de la habitación no disponible
+Fecha de reserva: 2024-03-05 23:03:47
+
+Número de Habitación: 
+Información de la habitación no disponible
+Fecha de reserva: 2024-03-05 23:40:35
+

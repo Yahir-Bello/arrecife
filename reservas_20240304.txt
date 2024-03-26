@@ -1,0 +1,96 @@
+Número de Habitación: 
+Nombre: No disponible
+Adultos: No disponible
+Niños: No disponible
+Fecha de reserva: 2024-03-04 04:01:01
+
+Número de Habitación: 
+Nombre: No disponible
+Adultos: No disponible
+Niños: No disponible
+Fecha de reserva: 2024-03-04 04:01:05
+
+Número de Habitación: 
+Nombre: No disponible
+Adultos: No disponible
+Niños: No disponible
+Fecha de reserva: 2024-03-04 04:01:08
+
+Número de Habitación: 
+Nombre: No disponible
+Adultos: No disponible
+Niños: No disponible
+Fecha de reserva: 2024-03-04 04:01:45
+
+Número de Habitación: 
+Nombre: No disponible
+Adultos: No disponible
+Niños: No disponible
+Fecha de reserva: 2024-03-04 04:10:52
+
+Número de Habitación: 
+Nombre: No disponible
+Adultos: No disponible
+Niños: No disponible
+Fecha de reserva: 2024-03-04 04:11:14
+
+Número de Habitación: 
+Nombre: No disponible
+Adultos: No disponible
+Niños: No disponible
+Fecha de reserva: 2024-03-04 04:11:39
+
+Número de Habitación: 
+Nombre: No disponible
+Adultos: No disponible
+Niños: No disponible
+Fecha de reserva: 2024-03-04 04:11:53
+
+Número de Habitación: 
+Nombre: No disponible
+Adultos: No disponible
+Niños: No disponible
+Fecha de reserva: 2024-03-04 04:12:33
+
+Número de Habitación: 
+Nombre: No disponible
+Adultos: No disponible
+Niños: No disponible
+Fecha de reserva: 2024-03-04 04:15:05
+
+Número de Habitación: 
+Nombre: No disponible
+Adultos: No disponible
+Niños: No disponible
+Fecha de reserva: 2024-03-04 04:15:08
+
+Número de Habitación: 
+Nombre: No disponible
+Adultos: No disponible
+Niños: No disponible
+Fecha de reserva: 2024-03-04 04:15:09
+
+Número de Habitación: 
+Nombre: No disponible
+Adultos: No disponible
+Niños: No disponible
+Fecha de reserva: 2024-03-04 04:15:50
+
+Número de Habitación: 
+Nombre: No disponible
+Adultos: No disponible
+Niños: No disponible
+Fecha de reserva: 2024-03-04 04:15:52
+
+Número de Habitación: 
+Nombre: No disponible
+Adultos: No disponible
+Niños: No disponible
+Fecha de reserva: 2024-03-04 04:16:21
+
+Número de Habitación: 
+Nombre: No disponible
+Adultos: No disponible
+Niños: No disponible
+Fecha de reserva: 2024-03-04 04:21:25
+
